@@ -1,4 +1,4 @@
-An IT guy with great scrolling capabilities.
+An IT guy with great scrolling capabilities
 
 <!---
 Phiore/Phiore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
